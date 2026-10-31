@@ -1,9 +1,33 @@
 {
-    "versionCode": 6,
-    "versionName": "2.4",
-    "applicationId": "com.aistudio.axion.vmxkpj",
-    "apkFilename": "axion-v2.4-debug.apk",
-    "sha256": "9bfd53cda2fd68182140fca2e38e5a8293e40a9a2f32c0c2e8cb3c981ca2f233",
-    "downloadUrl": "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.4/axion-v2.4-debug.apk",
-    "buildTimestamp": "2026-10-31T12:30:00Z"
+    "versionCode":  7,
+    "versionName":  "2.5",
+    "applicationId":  "com.aistudio.axion.vmxkpj",
+    "apkFilename":  "axion-v2.5-debug.apk",
+    "sha256":  "9434ae95a231c6605fae673bac0e2b05b46af7748786ee3d17abad415f55e7f7",
+    "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/axion-v2.5-debug.apk",
+    "targetApkSize":  49504410,
+    "signingCertSha256":  "d6a654d23790de70026d4b4880f90de0d7f69e2af566cbf1a8b92cc0452340f1",
+    "patchAlgorithm":  "bsdiff",
+    "supportedBases":  [
+                           {
+                               "versionName":  "2.1",
+                               "versionCode":  3,
+                               "baseApkSha256":  "81136a0a0efc8598df81e6678255b45ee746b80413147cb60d6d36e1305772dc",
+                               "patchFilename":  "patch-v2.1-to-v2.5.patch",
+                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/patch-v2.1-to-v2.5.patch",
+                               "patchSha256":  "dcc373778e2f0de2278c7916fc524ad312eb9c75528539ccad38e71db0f9289f",
+                               "patchSize":  35999560
+                           },
+                           {
+                               "versionName":  "2.4",
+                               "versionCode":  6,
+                               "baseApkSha256":  "9bfd53cda2fd68182140fca2e38e5a8293e40a9a2f32c0c2e8cb3c981ca2f233",
+                               "patchFilename":  "patch-v2.4-to-v2.5.patch",
+                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/patch-v2.4-to-v2.5.patch",
+                               "patchSha256":  "29f039b214c63b0c1603010089aee9ebe263db0ab329cd36e95f1105befd9f2f",
+                               "patchSize":  35967844
+                           }
+                       ],
+    "signature":  null,
+    "buildTimestamp":  "2026-10-31T17:25:51Z"
 }
