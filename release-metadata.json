@@ -1,9 +1,9 @@
 {
-    "versionCode": 4,
-    "versionName": "2.2",
+    "versionCode": 5,
+    "versionName": "2.3",
     "applicationId": "com.aistudio.axion.vmxkpj",
-    "apkFilename": "axion-v2.2-debug.apk",
-    "sha256": "e45e7b1c7aad9a92da0d1af91044984757da6e852eccae79964304160c89cf5f",
-    "downloadUrl": "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.2/axion-v2.2-debug.apk",
-    "buildTimestamp": "2026-10-31T11:20:00Z"
+    "apkFilename": "axion-v2.3-debug.apk",
+    "sha256": "b579f438e36f649c601d11f6a17c54960ea84e415c739653a9b4df581db91cbc",
+    "downloadUrl": "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.3/axion-v2.3-debug.apk",
+    "buildTimestamp": "2026-10-31T12:00:00Z"
 }
