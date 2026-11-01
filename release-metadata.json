@@ -1,33 +1,56 @@
 {
-    "versionCode":  7,
-    "versionName":  "2.5",
+    "versionCode":  8,
+    "versionName":  "2.5.1",
     "applicationId":  "com.aistudio.axion.vmxkpj",
-    "apkFilename":  "axion-v2.5-debug.apk",
-    "sha256":  "9434ae95a231c6605fae673bac0e2b05b46af7748786ee3d17abad415f55e7f7",
-    "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/axion-v2.5-debug.apk",
-    "targetApkSize":  49504410,
+    "apkFilename":  "axion-v2.5.1-debug.apk",
+    "sha256":  "5aa76d2e94ba1f7a28186f32171020d8109aac4c19e2e8db858e354917b7d5bc",
+    "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.1/axion-v2.5.1-debug.apk",
+    "targetApkSize":  49511810,
     "signingCertSha256":  "d6a654d23790de70026d4b4880f90de0d7f69e2af566cbf1a8b92cc0452340f1",
     "patchAlgorithm":  "bsdiff",
     "supportedBases":  [
                            {
-                               "versionName":  "2.1",
-                               "versionCode":  3,
-                               "baseApkSha256":  "81136a0a0efc8598df81e6678255b45ee746b80413147cb60d6d36e1305772dc",
-                               "patchFilename":  "patch-v2.1-to-v2.5.patch",
-                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/patch-v2.1-to-v2.5.patch",
-                               "patchSha256":  "dcc373778e2f0de2278c7916fc524ad312eb9c75528539ccad38e71db0f9289f",
-                               "patchSize":  35999560
-                           },
-                           {
-                               "versionName":  "2.4",
-                               "versionCode":  6,
-                               "baseApkSha256":  "9bfd53cda2fd68182140fca2e38e5a8293e40a9a2f32c0c2e8cb3c981ca2f233",
-                               "patchFilename":  "patch-v2.4-to-v2.5.patch",
-                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5/patch-v2.4-to-v2.5.patch",
-                               "patchSha256":  "29f039b214c63b0c1603010089aee9ebe263db0ab329cd36e95f1105befd9f2f",
-                               "patchSize":  35967844
+                               "versionName":  "2.5",
+                               "versionCode":  7,
+                               "baseApkSha256":  "9434ae95a231c6605fae673bac0e2b05b46af7748786ee3d17abad415f55e7f7",
+                               "patchFilename":  "patch-v2.5-to-v2.5.1.patch",
+                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.1/patch-v2.5-to-v2.5.1.patch",
+                               "patchSha256":  "94394184b2a861369ad27754bb8119ad811fb677146181dc5affb788a3584679",
+                               "patchSize":  36059908
                            }
                        ],
+    "releaseNotes":  {
+                         "releaseDate":  "2026-10-31",
+                         "shortSummary":  [
+                                              "Introduced single-patch cumulative differential OTA updates.",
+                                              "Upgraded version system to three-component versioning (v2.5.1).",
+                                              "Added integrated release history \u0026 changelog section in Settings."
+                                          ],
+                         "detailedChanges":  [
+                                                 {
+                                                     "title":  "1. Cumulative Differential Updates",
+                                                     "items":  [
+                                                                   "Downloads 1 direct cumulative patch from any starting version.",
+                                                                   "Automatic local target reconstruction with zero intermediate installs.",
+                                                                   "Signature verification \u0026 anti-downgrade integrity checks."
+                                                               ]
+                                                 },
+                                                 {
+                                                     "title":  "2. Three-Component Versioning",
+                                                     "items":  [
+                                                                   "Incremented versionName to 2.5.1 and versionCode to 8.",
+                                                                   "Implemented numerical version comparison for release sorting."
+                                                               ]
+                                                 },
+                                                 {
+                                                     "title":  "3. Settings \u0026 Release History",
+                                                     "items":  [
+                                                                   "Added dedicated Version \u0026 What\u0027s New section in Settings.",
+                                                                   "Offline caching for release notes."
+                                                               ]
+                                                 }
+                                             ]
+                     },
     "signature":  null,
-    "buildTimestamp":  "2026-10-31T17:25:51Z"
+    "buildTimestamp":  "2026-11-01T06:10:56Z"
 }
