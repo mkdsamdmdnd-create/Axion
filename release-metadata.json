@@ -1,11 +1,11 @@
 {
-    "versionCode":  8,
-    "versionName":  "2.5.1",
+    "versionCode":  9,
+    "versionName":  "2.5.2",
     "applicationId":  "com.aistudio.axion.vmxkpj",
-    "apkFilename":  "axion-v2.5.1-debug.apk",
-    "sha256":  "6e7f5c32008b3f09ef64dc25eb52d95d9ecd75eee799dd51659fb48aedb4b03e",
-    "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.1/axion-v2.5.1-debug.apk",
-    "targetApkSize":  49566400,
+    "apkFilename":  "axion-v2.5.2-debug.apk",
+    "sha256":  "ab26627a4248c14ee4fc59402e34e1d707a3b10dc0008d58781afaaa0243b845",
+    "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.2/axion-v2.5.2-debug.apk",
+    "targetApkSize":  49513682,
     "signingCertSha256":  "d6a654d23790de70026d4b4880f90de0d7f69e2af566cbf1a8b92cc0452340f1",
     "patchAlgorithm":  "bsdiff",
     "supportedBases":  [
@@ -13,10 +13,10 @@
                                "versionName":  "2.5",
                                "versionCode":  7,
                                "baseApkSha256":  "9434ae95a231c6605fae673bac0e2b05b46af7748786ee3d17abad415f55e7f7",
-                               "patchFilename":  "patch-v2.5-to-v2.5.1.patch",
-                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.1/patch-v2.5-to-v2.5.1.patch",
-                               "patchSha256":  "2ef944903efe98e558e73a874a776dd8bb868bba735967a49e8127827f8cc3f0",
-                               "patchSize":  36068104
+                               "patchFilename":  "patch-v2.5-to-v2.5.2.patch",
+                               "patchUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.2/patch-v2.5-to-v2.5.2.patch",
+                               "patchSha256":  "4a6651545bed1ce338b0cbb46eb7d11408d9eeaab9f3b19089a6b6cb027fb6ce",
+                               "patchSize":  36055773
                            }
                        ],
     "releaseNotes":  {
@@ -52,5 +52,5 @@
                                              ]
                      },
     "signature":  null,
-    "buildTimestamp":  "2026-11-01T07:29:18Z"
+    "buildTimestamp":  "2026-11-03T16:17:30Z"
 }
