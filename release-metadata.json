@@ -3,9 +3,9 @@
     "versionName":  "2.5.3",
     "applicationId":  "com.aistudio.axion.vmxkpj",
     "apkFilename":  "axion-v2.5.3-debug.apk",
-    "sha256":  "2033f935346b73e18e38e5d0528abc652b8a265000a8dfcca76f613e694bf06d",
+    "sha256":  "abb872558b5b90ff9b677f50539e82c7fdb9efb471df2137022d55181cd41c34",
     "downloadUrl":  "https://github.com/mkdsamdmdnd-create/Axion/releases/download/v2.5.3/axion-v2.5.3-debug.apk",
-    "targetApkSize":  48252028,
+    "targetApkSize":  48659971,
     "signingCertSha256":  "d6a654d23790de70026d4b4880f90de0d7f69e2af566cbf1a8b92cc0452340f1",
     "releaseNotes":  {
                          "releaseDate":  "2026-10-31",
@@ -26,5 +26,5 @@
                                              ]
                      },
     "signature":  null,
-    "buildTimestamp":  "2026-11-06T16:51:59Z"
+    "buildTimestamp":  "2026-11-07T07:14:51Z"
 }
